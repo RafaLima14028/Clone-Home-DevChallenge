@@ -24,5 +24,3 @@ Clone - DevChallenge
  <sub><b>Rafael Lima</b></sub></a> <a href="https://github.com/RafaLima14028" title="Github"></a>
 
 Feito com ❤️ por Rafael Lima!
-
-() [https://img.shields.io/apm/l/Clone-Home-DevChallenge]
