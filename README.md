@@ -4,9 +4,9 @@ Clone - DevChallenge
 
 ## Tecnologias
 
-- [React.js] (https://pt-br.reactjs.org/)
-- [Styled-Components] (https://styled-components.com/)
-- [React-icons] (https://react-icons.github.io/react-icons/)
+- [React.js](https://pt-br.reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [React-icons](https://react-icons.github.io/react-icons/)
 
 ## Como usar
 
